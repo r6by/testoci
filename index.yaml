@@ -1,0 +1,36 @@
+apiVersion: v1
+entries:
+  bar:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-11-02T22:30:08.712819685Z"
+    description: A Helm chart for Kubernetes
+    digest: 55334c9984845e5c8f225b0c33f54d657b33eea21ca21d51519e89744c69bb46
+    name: bar
+    type: application
+    urls:
+    - https://github.com/r6by/testoci/releases/download/bar-0.2.0/bar-0.2.0.tgz
+    version: 0.2.0
+  baz:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-11-02T22:30:08.976184524Z"
+    description: A Helm chart for Kubernetes
+    digest: dc718d75bf59589c5f976715c1bd954b9cb61bdfd1d53e24fd943710e6fa1fe3
+    name: baz
+    type: application
+    urls:
+    - https://github.com/r6by/testoci/releases/download/baz-0.1.0/baz-0.1.0.tgz
+    version: 0.1.0
+  foo:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-11-02T22:30:09.196446687Z"
+    description: A Helm chart for Kubernetes
+    digest: 3458640b9c76bd546d1dbb8585b91ab4df4e193173bda22ebe81ba962a2fb794
+    name: foo
+    type: application
+    urls:
+    - https://github.com/r6by/testoci/releases/download/foo-0.2.0/foo-0.2.0.tgz
+    version: 0.2.0
+generated: "2022-11-02T22:30:09.196452887Z"
