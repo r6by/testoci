@@ -25,6 +25,16 @@ entries:
   foo:
   - apiVersion: v2
     appVersion: 1.16.0
+    created: "2022-11-02T22:42:19.714304323Z"
+    description: A Helm chart for Kubernetes
+    digest: 2564c14f7fda8caaf268d5a80724ad67bc7886b81c3cf7064f76751d2ae2be50
+    name: foo
+    type: application
+    urls:
+    - https://github.com/r6by/testoci/releases/download/foo-0.2.1/foo-0.2.1.tgz
+    version: 0.2.1
+  - apiVersion: v2
+    appVersion: 1.16.0
     created: "2022-11-02T22:30:09.196446687Z"
     description: A Helm chart for Kubernetes
     digest: 3458640b9c76bd546d1dbb8585b91ab4df4e193173bda22ebe81ba962a2fb794
@@ -33,4 +43,4 @@ entries:
     urls:
     - https://github.com/r6by/testoci/releases/download/foo-0.2.0/foo-0.2.0.tgz
     version: 0.2.0
-generated: "2022-11-02T22:30:09.196452887Z"
+generated: "2022-11-02T22:42:19.714311923Z"
